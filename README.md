@@ -48,7 +48,7 @@ India's waste systems suffer blind planning: Karimnagar ~135T/day, 20-30% ineffi
 MIT – Free to use & fork.
 
 ## 👥 Contact
-- GitHub: [@yourusername](https://github.com/sriperumbudury-a11y/Waste2Worth-AI)
+- GitHub: [@sriperumbudury-a11y](https://github.com/sriperumbudury-a11y/Waste2Worth-AI)
 - Email: ysriperumbudur@gmail.com
 
 **⭐ Star if helpful! #IndiaInnovates2026**
