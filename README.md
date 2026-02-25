@@ -1,3 +1,4 @@
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 
@@ -36,9 +37,7 @@ India's waste systems suffer blind planning: Karimnagar ~135T/day, 20-30% ineffi
 - Proactive governance for Tier-2/3 cities.[file:1]
 
 ## 🏆 Hackathon Submission
-- **Team**: Yashaswini Sri et al., RACE Womens Degree College.
-- **Devpost/Portal**: [Link]
-- **Judges**: Check PPT [here](./project_presentation.pdf)
+- **Team**: Yashaswini Sri Perumbudur et al., RACE Womens Degree College.
 
 ## 🤝 Contributing
 1. Fork repo.
@@ -47,5 +46,9 @@ India's waste systems suffer blind planning: Karimnagar ~135T/day, 20-30% ineffi
 
 ## 📄 License
 MIT – Free to use & fork.
+
+## 👥 Contact
+- GitHub: [@sriperumbudury-a11y](https://github.com/yourusername)
+- Email: ysriperumbudur@gmail.com
 
 **⭐ Star if helpful! #IndiaInnovates2026**
