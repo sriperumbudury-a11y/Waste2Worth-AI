@@ -27,8 +27,7 @@ India's waste systems suffer blind planning: Karimnagar ~135T/day, 20-30% ineffi
 3. Run: `streamlit run app.py` (or Jupyter for models).
 
 ## 📱 Live Demo
-- [Hosted Dashboard](your-link)  
-- [Video Walkthrough](youtu.be/...) (2-min: problem → demo → impact)
+- [Hosted Dashboard](https://fresh-chocolate-beu8zmayi1.edgeone.app/file_00000000559c71fdbf425e1d13bcbd0e.png  
 
 ## 📊 Impact
 - ₹1Cr savings/city in 12 months.
