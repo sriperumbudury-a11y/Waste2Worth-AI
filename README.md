@@ -25,7 +25,6 @@ India's waste systems suffer blind planning: Karimnagar ~135T/day, 20-30% ineffi
 1. Clone: `git clone https://github.com/yourusername/Waste2Worth.git`
 2. Install: `pip install -r requirements.txt`
 3. Run: `streamlit run app.py` (or Jupyter for models).
-4. Demo: [Replit/Streamlit link]
 
 ## 📱 Live Demo
 - [Hosted Dashboard](your-link)  
